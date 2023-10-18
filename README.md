@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Artificial Vison using Python<br>⚡ In my free time I like solving leetcode problems.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Artificial Vision using Python<br>⚡ In my free time I like solving leetcode problems.</p>
 
 ###
 
